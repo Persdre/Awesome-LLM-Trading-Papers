@@ -6,6 +6,6 @@
 ![Stars](https://img.shields.io/github/stars/persdre/awesome-LLM-trading-papers)
 ![Forks](https://img.shields.io/github/forks/persdre/awesome-LLM-trading-papers)
 
-🔥 **Must-read papers for LLM Trading Papers.**
+🔥 **Must-read papers for LLM Trading.**
 
 💫 **Continuously update on a weekly basis.** (last update: 17/09/2024)
