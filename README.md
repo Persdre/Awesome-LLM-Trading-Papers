@@ -1,4 +1,4 @@
-# Awesome-Edge-LLM
+# Awesome-LLM-Trading-Papers
 
  
 
