@@ -17,20 +17,6 @@
 Awesome-LLM-Trading: A curated list of [📙Awesome LLM Trading Papers with Codes](#paperlist).
 
 
-## ©️Citations 
-
-```BibTeX
-@misc{Awesome-LLM-Trading@2024,
-  title={Awesome-LLM-Trading: A curated list of Awesome LLM Trading Papers with Codes},
-  url={https://github.com/Persdre/Awesome-LLM-Trading-Papers},
-  note={Open-source software available at https://github.com/Persdre/Awesome-LLM-Trading-Papers},
-  author={Qian Wang, etc},
-  year={2024}
-}
-```
-
-
-
 ## 📖Contents 
 <div id="paperlist"></div>  
 
@@ -114,6 +100,18 @@ GNU General Public License v3.0
 ## 🎉Contribute  
 
 Welcome to star & submit a PR to this repo! 
+
+## ©️Citations 
+
+```BibTeX
+@misc{Awesome-LLM-Trading@2024,
+  title={Awesome-LLM-Trading: A curated list of Awesome LLM Trading Papers with Codes},
+  url={https://github.com/Persdre/Awesome-LLM-Trading-Papers},
+  note={Open-source software available at https://github.com/Persdre/Awesome-LLM-Trading-Papers},
+  author={Qian Wang, etc},
+  year={2024}
+}
+```
 
 
 
